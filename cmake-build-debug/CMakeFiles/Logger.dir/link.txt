@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   -pthread -rdynamic CMakeFiles/Logger.dir/test.cpp.o CMakeFiles/Logger.dir/log.cpp.o  -o Logger 
